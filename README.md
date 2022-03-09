@@ -1,18 +1,18 @@
-### Hi there 👋  Here is the organized category of the repositories in my Github.
+Hi there 👋  Here is the organized category of the repositories in my Github.
 
-#### Machine Learning
+## Machine Learning
 - My personal notes
 
 
-#### Deep Learning
+## Deep Learning
 - My personal notes
 
-#### Computer Vision
+## Computer Vision
 - Object Detection
 
-#### Natural Language Processing
+## Natural Language Processing
 
-#### Time Series Analysis
+## Time Series Analysis
 - Time Seires Forecasting
   - [Beijing air quality forecasting with deep learning models](https://github.com/JimengShi/Time-Series-Forecasting-Deep-Learning)
   
