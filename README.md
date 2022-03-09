@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there 👋 Organized category of the repositories in my Github.
+
+#### Machine Learning
+
+#### Deep Learning
+
+#### Computer Vision
+
+#### Natural Language Processing
+
+#### Time Series Analysis
 
 <!--
 **JimengShi/JimengShi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
