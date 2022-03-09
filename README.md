@@ -1,34 +1,24 @@
 Hi there 👋  Here is the organized category of the repositories in my Github.
 
 ## Machine Learning
-- My personal notes
+- [Traditional machine learning algorithms (Personal Notes)](https://github.com/JimengShi/Machine-Learning-Algorithms)
+- [Machine learning (including data process) with scikit-learn, pytorch, tensorflow](https://github.com/JimengShi/machine-learning)
 
 
 ## Deep Learning
-- My personal notes
+- [Deep-Learning-Coursera](https://github.com/JimengShi/Deep-Learning-Coursera)
+
 
 ## Computer Vision
 - Object Detection
 
+
 ## Natural Language Processing
 
 ## Time Series Analysis
-- Time Seires Forecasting
-  - [Beijing air quality forecasting with deep learning models](https://github.com/JimengShi/Time-Series-Forecasting-Deep-Learning)
-  
+- Time Seires Forecasting (TSF)
+  - [Beijing air quality forecasting with deep learning models (My paper)](https://github.com/JimengShi/Time-Series-Forecasting-Deep-Learning)
+  - [TSF papers and codes with deep learning models](https://github.com/JimengShi/deep-learning-time-series)
+
+
 - Time Seires Classification
-
-<!--
-**JimengShi/JimengShi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
