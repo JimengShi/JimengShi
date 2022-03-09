@@ -1,4 +1,4 @@
-### Hi there 👋 Organized category of the repositories in my Github.
+### Hi there 👋  Here is the organized category of the repositories in my Github.
 
 #### Machine Learning
 
