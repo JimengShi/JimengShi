@@ -10,16 +10,22 @@ Hi there 👋  Here is the organized category of the repositories in my Github.
 - [Deep-Learning-Coursera](https://github.com/JimengShi/Deep-Learning-Coursera)
 - [Summaries of deep learnig models with Pytorch and Tensorflow](https://github.com/JimengShi/Deep-Learning-Models)
 
+
 ## Computer Vision
 - [Age & gender estimation with CNN (Version 1)](https://github.com/JimengShi/age-gender-estimation)
 - [Age & gender estimation with CNN (Version 2)](https://github.com/JimengShi/Project-age-estimation-pytorch)
 - [Recognition of the car license plate](https://github.com/JimengShi/License-Plate-Recognition-Using-OpenCV)
 - [OpenCV python tutorial](https://github.com/JimengShi/OpenCV-Python-Tutorial)
 - [Obeject detection using YoloV4](https://github.com/JimengShi/Object-Detection-Using-YOLOv4)
+- [Data augmentation of images](https://github.com/JimengShi/Data-Augmentation-by-Image-Transforms)
+- [Recognition of credit card number](https://github.com/JimengShi/Credit-Card-Number-Recognition)
+- [Binary classification of RMB images](https://github.com/JimengShi/Classification-Model-of-RMB-Image)
+- [Tutorial on segmentation of images and videos Pixellib library](https://github.com/JimengShi/PixelLib)
 
 
 ## Natural Language Processing
-- 
+- [NLP tutorials](https://github.com/JimengShi/NLP-Tutorial)
+
 
 ## Time Series Analysis
 - Time Seires Forecasting (TSF)
