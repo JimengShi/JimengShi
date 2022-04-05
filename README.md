@@ -35,8 +35,8 @@
   - [TSF with LSTM encoder decoder](https://github.com/JimengShi/LSTM_encoder_decoder)
 
 
-- Time Seires Classification
-
+- Time Seires Classification (TSC)
+  - [TSC codes using deep learning models](https://github.com/JimengShi/dl-4-tsc)
 
 ## Online interesting projects
 - [500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/JimengShi/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
