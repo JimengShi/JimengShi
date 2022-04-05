@@ -1,4 +1,4 @@
-Hi there 👋  Here is the organized category of the repositories in my Github.
+# Hi there 👋  Here is the organized category of the repositories in my Github.
 
 ## Machine Learning
 - [Traditional machine learning algorithms (Personal Notes)](https://github.com/JimengShi/Machine-Learning-Algorithms)
