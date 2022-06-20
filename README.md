@@ -28,6 +28,8 @@
 
 
 ## Time Series Analysis
+- Survey paper
+  - [Awesome-Methods-Time-Series-Analysis](https://github.com/JimengShi/Awesome-Methods-Time-Series-Analysis)
 - Time Seires Forecasting (TSF)
   - [Beijing air quality forecasting with deep learning models (My paper)](https://github.com/JimengShi/Time-Series-Forecasting-Deep-Learning)
   - [TSF papers and codes with deep learning models](https://github.com/JimengShi/deep-learning-time-series)
