@@ -1,4 +1,8 @@
 ## 👋 Quick summary of my repositories:
+## My papers
+- [Traditional machine learning algorithms (Personal Notes)](https://github.com/JimengShi/Machine-Learning-Algorithms)
+
+
 
 ## Machine Learning
 - [Traditional machine learning algorithms (Personal Notes)](https://github.com/JimengShi/Machine-Learning-Algorithms)
