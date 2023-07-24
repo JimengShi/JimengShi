@@ -23,10 +23,11 @@
 - [NLP tutorials](https://github.com/JimengShi/NLP-Tutorial)
 
 
-## Time Series Analysis
-- Time Seires Forecasting (TSF)
+## Time Series 
+- Time Series Forecasting (TSF)
   - [Beijing air quality forecasting with deep learning models (My paper)](https://github.com/JimengShi/Time-Series-Forecasting-Deep-Learning)
   - [TSF papers and codes with deep learning models](https://github.com/JimengShi/deep-learning-time-series)
+  - [Deep Learning Models for Water Stage Predictions in South Florida (My paper)](https://github.com/JimengShi/DL-WaLeF)
 
 - Time Seires Classification (TSC)
   - [TSC codes using deep learning models](https://github.com/JimengShi/dl-4-tsc)
