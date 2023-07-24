@@ -24,13 +24,23 @@
 
 
 ## Time Series 
+- Survey paper
+  - [Deep learning time series forecasting](https://github.com/JimengShi/deep-learning-time-series)
+  - [Time series transformer](https://github.com/JimengShi/time-series-transformers-review)
+    
 - Time Series Forecasting (TSF)
   - [Beijing air quality forecasting with deep learning models (My paper)](https://github.com/JimengShi/Time-Series-Forecasting-Deep-Learning)
   - [TSF papers and codes with deep learning models](https://github.com/JimengShi/deep-learning-time-series)
-  - [Deep Learning Models for Water Stage Predictions in South Florida (My paper)](https://github.com/JimengShi/DL-WaLeF)
+  - [Deep learning models for water stage predictions in South Florida (My paper)](https://github.com/JimengShi/DL-WaLeF)
 
 - Time Seires Classification (TSC)
   - [TSC codes using deep learning models](https://github.com/JimengShi/dl-4-tsc)
 
+## Generative DL models
+- [GAN family](https://github.com/JimengShi/generative-models-collection)
+- [Autoencoder](https://github.com/JimengShi/wae)
+
 ## Online interesting projects
 - [500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code](https://github.com/JimengShi/500-AI-Machine-learning-Deep-learning-Computer-vision-NLP-Projects-with-code)
+- [Medium notebooks about AI applications](https://github.com/JimengShi/MEDIUM_NoteBook)
+- [Washington University (in St. Louis) Course T81-558: Applications of Deep Neural Networks](https://github.com/JimengShi/t81_558_deep_learning)
