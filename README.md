@@ -29,9 +29,6 @@
 - Time Seires Forecasting (TSF)
   - [Beijing air quality forecasting with deep learning models (My paper)](https://github.com/JimengShi/Time-Series-Forecasting-Deep-Learning)
   - [TSF papers and codes with deep learning models](https://github.com/JimengShi/deep-learning-time-series)
-  - [Multidimensional time series with transformer](https://github.com/JimengShi/Multidimensional-time-series-with-transformer)
-  - [TSF with LSTM encoder decoder](https://github.com/JimengShi/LSTM_encoder_decoder)
-
 
 - Time Seires Classification (TSC)
   - [TSC codes using deep learning models](https://github.com/JimengShi/dl-4-tsc)
