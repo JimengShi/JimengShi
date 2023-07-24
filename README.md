@@ -12,10 +12,8 @@
 
 
 ## Computer Vision
-- [Age & gender estimation with CNN (Version 1)](https://github.com/JimengShi/age-gender-estimation)
-- [Age & gender estimation with CNN (Version 2)](https://github.com/JimengShi/Project-age-estimation-pytorch)
+- [Age & gender estimation with CNN ](https://github.com/JimengShi/Project-age-estimation-pytorch)
 - [Recognition of the car license plate](https://github.com/JimengShi/License-Plate-Recognition-Using-OpenCV)
-- [OpenCV python tutorial](https://github.com/JimengShi/OpenCV-Python-Tutorial)
 - [Obeject detection using YoloV4](https://github.com/JimengShi/Object-Detection-Using-YOLOv4)
 - [Data augmentation of images](https://github.com/JimengShi/Data-Augmentation-by-Image-Transforms)
 - [Recognition of credit card number](https://github.com/JimengShi/Credit-Card-Number-Recognition)
