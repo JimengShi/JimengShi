@@ -18,7 +18,6 @@
 - [Data augmentation of images](https://github.com/JimengShi/Data-Augmentation-by-Image-Transforms)
 - [Recognition of credit card number](https://github.com/JimengShi/Credit-Card-Number-Recognition)
 - [Binary classification of RMB images](https://github.com/JimengShi/Classification-Model-of-RMB-Image)
-- [Tutorial on segmentation of images and videos Pixellib library](https://github.com/JimengShi/PixelLib)
 
 
 ## Natural Language Processing
