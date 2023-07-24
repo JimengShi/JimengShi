@@ -1,4 +1,4 @@
-## 👋 The organized category of the repositories in my Github is listed as below.
+## 👋 Quick summary of my repositories:
 
 ## Machine Learning
 - [Traditional machine learning algorithms (Personal Notes)](https://github.com/JimengShi/Machine-Learning-Algorithms)
