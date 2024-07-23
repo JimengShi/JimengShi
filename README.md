@@ -6,7 +6,6 @@
 
 
 ## Deep Learning
-- [Deep-Learning-Coursera](https://github.com/JimengShi/Deep-Learning-Coursera)
 - [Summaries of deep learnig models with Pytorch and Tensorflow](https://github.com/JimengShi/Deep-Learning-Models)
 
 
@@ -14,9 +13,6 @@
 - [Age & gender estimation with CNN ](https://github.com/JimengShi/Project-age-estimation-pytorch)
 - [Recognition of the car license plate](https://github.com/JimengShi/License-Plate-Recognition-Using-OpenCV)
 - [Obeject detection using YoloV4](https://github.com/JimengShi/Object-Detection-Using-YOLOv4)
-- [Data augmentation of images](https://github.com/JimengShi/Data-Augmentation-by-Image-Transforms)
-- [Recognition of credit card number](https://github.com/JimengShi/Credit-Card-Number-Recognition)
-- [Binary classification of RMB images](https://github.com/JimengShi/Classification-Model-of-RMB-Image)
 
 
 ## Natural Language Processing
